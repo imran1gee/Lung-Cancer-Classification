@@ -19,6 +19,15 @@ The model achieved a classification accuracy of **56%** on the test set.
 | Squamous Cell         | 68             | 0          | 6      | 16            |
 
 ---
+The project includes several visual outputs saved as PDF files in the results/ folder:
+
+Confusion matrix plot.
+Loss and accuracy curves during training.
+Classification report metrics.
+### Key Performance Metrics:
+Accuracy: 56%
+Precision, Recall, F1-Score: Available in the classification report.
+The results indicate areas for improvement in the model performance.
 
 ### File Structure
 
