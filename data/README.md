@@ -7,6 +7,4 @@ This folder contains the dataset used for this project.
 - `valid`: Validation images, grouped into class-specific folders.
 - `test`: Test images, grouped into class-specific folders.
 
-## Instructions
-Place the dataset files here before running the project.
 
